@@ -1,13 +1,3 @@
-"""
-NOVA — Smart Expense & Bill Manager
-Modern desktop edition built with CustomTkinter + Matplotlib.
-
-Install:
-    py -m pip install customtkinter matplotlib
-
-Run:
-    py nova_expense_tracker.py
-"""
 import json
 import os
 import csv
